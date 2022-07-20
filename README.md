@@ -2,6 +2,8 @@
 
 GIT [practice for fun]
 
+![alt text](img/status.png)
+
 ## upload changes:
 git add -A
 git commit -m 'new upload'
@@ -25,4 +27,6 @@ git push --set-upstream origin feature/cherry1
 git checkout main
 git cherry-pick feature/cherry1
 
+# status:
+would like to repractice cherry pick and rebase to flatten the curve
 

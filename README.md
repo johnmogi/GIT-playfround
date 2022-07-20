@@ -11,6 +11,7 @@ git push
 git checkout -b feature/prepMerge1
 { manually add a file }
 up ( upload changes )
+git push --set-upstream origin feature/prepMerge1
 git checkout main
 git merge feature/prepMerge1
 

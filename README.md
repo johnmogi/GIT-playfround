@@ -2,6 +2,11 @@
 
 GIT [practice for fun]
 
+check the video session here:
+https://www.youtube.com/watch?v=hTlofqZqNzc
+
+(also contains aws labs with cloudfront)
+
 ![alt text](img/status.png)
 
 ## upload changes:

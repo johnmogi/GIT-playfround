@@ -15,3 +15,4 @@ git push --set-upstream origin feature/prepMerge1
 git checkout main
 git merge feature/prepMerge1
 
+## Cherry pick from a feature branch:

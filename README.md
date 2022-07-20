@@ -30,3 +30,4 @@ git cherry-pick feature/cherry1
 # status:
 would like to repractice cherry pick and rebase to flatten the curve
 
+![alt text](img/conflict1.png)
